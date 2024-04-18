@@ -227,3 +227,9 @@
     transform: rotate(0deg);
   }
 }
+.center h6 {
+  font-size: 5rem; /* ขนาดตัวหนังสือ */
+  font-weight: bold; /* น้ำหนักตัวหนังสือ */
+  color: #ddf9ff; /* สีข้อความ */
+}
+
